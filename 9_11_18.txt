@@ -1,0 +1,20 @@
+HTTPS:
+- URLS
+-connect everytime you want to send (POST) or get data (GET)
+-send OR recieve not BOTH
+-client determines timing
+
+MQTT (streaming):
+-topics
+-Connect once at beginning
+-PUBLISH send data anytime
+-SUBSCRIBE recieve data as its created
+
+Adafruit IO
+-API: describes how web service expects the protocol to be used
+-platform: collection of pages, protocols, and client libraries to help use API
+-protocols: connect devices
+-libraries: help us write code
+
+Secrets.h
+-NEVER commit your user and password to github!!
