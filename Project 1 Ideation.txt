@@ -1,5 +1,7 @@
+REQUIREMENTS:
 One data flow
 Hardware as input or output
+THEMES:
 mass communication in media
 
 100 stage:
@@ -9,7 +11,7 @@ mass communication in media
 4. people watching, whose watching?
 5. learn facial expressions emojis?
 6. hambone as input, output
-7. social detector, IR sensor at points in common areas
+7. social detector, motion sensor at points in common areas
 8. are we ok?: sound detector in common areas -> judge smaller or larger levels
 9. scan tweets, have text to speech and speaker announce
 10. silence that is lOUD, pregnant, takes up space
@@ -38,7 +40,12 @@ mass communication in media
 33. AIDS/HIV wiped out an entire generation of queer mentors/parents/teachers/artists/creatives
 34. bodies are weird; nb ppl are weird; nb ppl's bodies are weird
 35. spotify connected to heat? pressure?
+36. maybe it isn't ethical to addict people for money --> maybe las vegas in unethical
+37. bodies and muscles, fully relaxed, do they ever?
 
 10 stage:
 1. hand holding, heat sensor. Detect the heat transfer between two hands -> glove? ring? Visually **see** something that we feel -> what does that contribute to this concept?
-2. 
+2. touching inanimate objects outputs music from various spotify playlists (sad, happy, angry, neutral (yaeji feelings change) etc)
+3. water levels from the network and a potentiometer, straw controller, sucK and reflect the world with those water levels
+4. motions, detecting our motions and generating music based on speed -> tempo of song
+5. 
